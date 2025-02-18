@@ -1,0 +1,55 @@
+{
+    "questions": {
+      "easy": [
+        {
+          "question": "How many bones are in an adult human body?",
+          "options": ["106", "206", "306", "406"],
+          "answer": "206"
+        },
+        {
+          "question": "Which bone protects the brain?",
+          "options": ["Ribcage", "Pelvis", "Skull", "Femur"],
+          "answer": "Skull"
+        },
+        {
+          "question": "What bone is commonly known as the kneecap?",
+          "options": ["Patella", "Fibula", "Tibia", "Radius"],
+          "answer": "Patella"
+        }
+      ],
+      "medium": [
+        {
+          "question": "What type of bone is the humerus?",
+          "options": ["Flat Bone", "Irregular Bone", "Short Bone", "Long Bone"],
+          "answer": "Long Bone"
+        },
+        {
+          "question": "What is the smallest bone in the human body?",
+          "options": ["Stapes", "Fibula", "Ulna", "Mandible"],
+          "answer": "Stapes"
+        },
+        {
+          "question": "How many bones are in the human hand?",
+          "options": ["14", "27", "34", "42"],
+          "answer": "27"
+        }
+      ],
+      "hard": [
+        {
+          "question": "Which bone is the only one in the human body that does not connect to another bone?",
+          "options": ["Hyoid", "Scapula", "Sternum", "Femur"],
+          "answer": "Hyoid"
+        },
+        {
+          "question": "What is the medical term for the collarbone?",
+          "options": ["Clavicle", "Scapula", "Mandible", "Radius"],
+          "answer": "Clavicle"
+        },
+        {
+          "question": "What is the most commonly broken bone in the human body?",
+          "options": ["Clavicle", "Femur", "Tibia", "Ulna"],
+          "answer": "Clavicle"
+        }
+      ]
+    }
+  }
