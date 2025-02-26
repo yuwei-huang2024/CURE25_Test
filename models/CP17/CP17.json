@@ -1,0 +1,91 @@
+{
+    "ModelName": "CP17",
+    "Description": "The Skull of CP17",
+    "Parts":
+    [
+        {
+            "PartName": "Ethmoid",
+            "PartDescription": "The Ethmoid Bone"
+        },
+        {
+            "PartName": "Lfrontal",
+            "PartDescription": "The Lfrontal Bone"
+        },
+        {
+            "PartName": "Linferiornasalconcha",
+            "PartDescription": "The Linferiornasalconcha Bone"
+        },
+        {
+            "PartName": "Lmaxilla",
+            "PartDescription": "The Lmaxilla Bone"
+        },
+        {
+            "PartName": "Lnasal",
+            "PartDescription": "The Lnasal Bone"
+        },
+        {
+            "PartName": "Lpalatine",
+            "PartDescription": "The Lpalatine Bone"
+        },
+        {
+            "PartName": "Lparietal",
+            "PartDescription": "The Lparietal Bone"
+        },
+        {
+            "PartName": "Ltemporal2",
+            "PartDescription": "The Ltemporal2 Bone"
+        },
+        {
+            "PartName": "Lzygomatic",
+            "PartDescription": "The Lzygomatic Bone"
+        },
+        {
+            "PartName": "Mandible",
+            "PartDescription": "The Mandible Bone"
+        },
+        {
+            "PartName": "Occipital",
+            "PartDescription": "The Occipital Bone"
+        },
+        {
+            "PartName": "Rfrontal",
+            "PartDescription": "The Rfrontal Bone"
+        },
+        {
+            "PartName": "Rinferiornasalconcha",
+            "PartDescription": "The Rinferiornasalconcha Bone"
+        },
+        {
+            "PartName": "Rmaxilla",
+            "PartDescription": "The Rmaxilla Bone"
+        },
+        {
+            "PartName": "Rnasal",
+            "PartDescription": "The Rnasal Bone"
+        },
+        {
+            "PartName": "Rpalatine",
+            "PartDescription": "The Rpalatine Bone"
+        },
+        {
+            "PartName": "Rparietal",
+            "PartDescription": "The Rparietal Bone"
+        },
+        {
+            "PartName": "Rtemporal2",
+            "PartDescription": "The Rtemporal2 Bone"
+        },
+        {
+            "PartName": "Rzygomatic",
+            "PartDescription": "The Rzygomatic Bone"
+        },
+        {
+            "PartName": "Sphenoid",
+            "PartDescription": "The Sphenoid Bone"
+        },
+        {
+            "PartName": "Vomer",
+            "PartDescription": "The Vomer Bone"
+        }
+    ]
+}
