@@ -5,7 +5,7 @@
     "Parts":
     [
         {
-            "BoneID": "Ethmoid",
+            "PartName": "Ethmoid",
             "DisplayName": "Ethmoid Bone",
             "PartDescription": "The Ethmoid Bone"
         },
