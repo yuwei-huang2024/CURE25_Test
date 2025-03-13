@@ -1,0 +1,19 @@
+{
+    "skeletons_index": {
+        "last_updated": "2025-02-18",
+        "available_skeletons": [
+            {
+                "id": "marmoset_skull",
+                "species": "Callithrix jacchus",
+                "data_file": "marmoset_skull/data",
+                "glb_path": "marmoset_skull/model"
+            },
+            {
+                "id": "aotidae_skull",
+                "species": "Aotus trivirgatus",
+                "data_file": "aotidae_skull/data",
+                "glb_path": "aotidae_skull/model"
+            }
+        ]
+    }
+}

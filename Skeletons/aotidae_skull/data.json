@@ -1,0 +1,46 @@
+{
+    "skeleton": {
+        "id": "aotidae_skull",
+        "species": "Aotus trivirgatus",
+        "description": "Complete skull of an adult Night Monkey (Owl Monkey)",
+        "boneIds": [ "aotidae_dentition", "aotidae_inf_nasal_conchae", "aotidae_lacrimals", "aotidae_nasals" ],
+        "skeletonFacts": [
+            "Exceptionally large orbits adapted for nocturnal vision",
+            "Enhanced nasal cavity structures for improved olfactory capabilities"
+        ]
+    },
+    "bones": [
+      {
+        "id": "aotidae_dentition",
+        "name": "Teeth",
+        "funFacts": [
+          "Night monkeys have a dental formula typical of New World monkeys",
+          "Their teeth are adapted for an omnivorous diet with emphasis on fruit and insects"
+        ]
+      },
+      {
+        "id": "aotidae_inf_nasal_conchae",
+        "name": "Inferior Nasal Conchae",
+        "funFacts": [
+          "The complex structure of these bones helps night monkeys maintain keen smell in the dark",
+          "They play a crucial role in conditioning air before it reaches the lungs"
+        ]
+      },
+      {
+        "id": "aotidae_lacrimals",
+        "name": "Lacrimal Bones",
+        "funFacts": [
+          "Night monkeys have the largest eyes relative to skull size of all primates",
+          "Their lacrimal bones are specially adapted to support their large eyes"
+        ]
+      },
+      {
+        "id": "aotidae_nasals",
+        "name": "Nasal Bones",
+        "funFacts": [
+          "Night monkey nasal bones help support an enhanced sense of smell",
+          "The shape of these bones contributes to their distinctive facial appearance"
+        ]
+      }
+    ]
+  }

@@ -1,0 +1,142 @@
+{
+    "skeleton": {
+        "id": "marmoset_skull",
+        "species": "Callithrix jacchus",
+        "description": "Complete skull of an adult Common marmoset!",
+        "boneIds": [ "ethmoid", "jugal", "mandible", "L_teeth", "lacrimals", "mandible", "maxilla", "nasal", "nasal_cochae", "occipital", "palantine", "parietal", "premaxilla", "sphenoid", "teeth", "Temporal", "vomer" ],
+        "skeletonFacts": [
+            "Small, lightweight skull adapted for their diminutive size",
+            "Specialized dental adaptations for tree gouging to harvest tree exudates"
+        ]
+    },
+    "bones": [
+        {
+            "id": "ethmoid",
+            "name": "Ethmoid Bone",
+            "boneFacts": [
+                "The ethmoid helps protect the brain while allowing smell signals to pass through",
+                "It's crucial for the marmoset's sense of smell, which they use to detect tree sap"
+            ]
+        },
+        {
+            "id": "jugal",
+            "name": "Cheek Bone",
+            "boneFacts": [
+                "The jugal bone helps protect the eye and provide attachment for facial muscles",
+                "In marmosets, this bone is relatively delicate due to their small size"
+            ]
+        },
+        {
+            "id": "L_teeth",
+            "name": "Teeth",
+            "boneFacts": [
+                "Marmoset teeth are specially adapted for gouging tree bark to stimulate sap flow",
+                "Their dental formula differs from other primates due to their specialized diet"
+            ]
+        },
+        {
+            "id": "lacrimals",
+            "name": "Lacrimal Bone",
+            "boneFacts": [
+                "The lacrimal bone forms part of the eye socket and houses the tear duct",
+                "In marmosets, it’s small but essential for maintaining eye health in their arboreal habitat"
+            ]
+        },
+        {
+            "id": "mandible",
+            "name": "Jaw Bone",
+            "boneFacts": [
+                "The marmoset mandible is specially adapted for their unique feeding behavior",
+                "Their jaw muscles are relatively strong for their size to enable tree gouging"
+            ]
+        },
+        {
+            "id": "maxilla",
+            "name": "Upper Jaw Bone",
+            "boneFacts": [
+                "The maxilla supports the upper teeth and forms part of the nasal cavity",
+                "In marmosets, it’s adapted to house teeth specialized for their exudativorous diet"
+            ]
+        },
+        {
+            "id": "nasal",
+            "name": "Nasal Bone",
+            "boneFacts": [
+                "The nasal bone forms the bridge of the nose and supports the nasal cavity",
+                "In marmosets, it’s small and lightweight, aiding their agile, arboreal lifestyle"
+            ]
+        },
+        {
+            "id": "nasal_cochae",
+            "name": "Nasal Conchae",
+            "boneFacts": [
+                "The nasal conchae increase the surface area for air filtration and olfaction",
+                "In marmosets, they enhance smell sensitivity for locating sap-rich trees"
+            ]
+        },
+        {
+            "id": "occipital",
+            "name": "Occipital Bone",
+            "boneFacts": [
+                "The occipital bone protects the rear of the brain and supports the skull base",
+                "In marmosets, it’s proportionally small but robust for their active movements"
+            ]
+        },
+        {
+            "id": "palantine",
+            "name": "Palatine Bone",
+            "boneFacts": [
+                "The palatine bone forms part of the hard palate and nasal cavity floor",
+                "In marmosets, it supports their specialized upper jaw structure for feeding"
+            ]
+        },
+        {
+            "id": "parietal",
+            "name": "Parietal Bone",
+            "boneFacts": [
+                "The parietal bone forms the top and sides of the skull",
+                "In marmosets, it’s thin and lightweight, suited to their small head size"
+            ]
+        },
+        {
+            "id": "premaxilla",
+            "name": "Premaxilla Bone",
+            "boneFacts": [
+                "The premaxilla holds the front upper teeth and connects to the maxilla",
+                "In marmosets, it’s adapted to support teeth used for gouging tree bark"
+            ]
+        },
+        {
+            "id": "sphenoid",
+            "name": "Sphenoid Bone",
+            "boneFacts": [
+                "The sphenoid bone connects multiple skull bones and protects brain structures",
+                "In marmosets, it’s compact but vital for cranial stability during feeding"
+            ]
+        },
+        {
+            "id": "teeth",
+            "name": "Teeth",
+            "boneFacts": [
+                "Marmoset teeth are uniquely shaped for scraping and gouging tree bark",
+                "Their incisors and canines are specialized for their sap-based diet"
+            ]
+        },
+        {
+            "id": "Temporal",
+            "name": "Temporal Bone",
+            "boneFacts": [
+                "The temporal bone houses the ear structures and jaw joint",
+                "In marmosets, it supports strong jaw movements for tree gouging"
+            ]
+        },
+        {
+            "id": "vomer",
+            "name": "Vomer Bone",
+            "boneFacts": [
+                "The vomer divides the nasal cavity and aids in olfaction",
+                "In marmosets, it’s small but enhances their ability to smell tree sap"
+            ]
+        }
+    ]
+}
