@@ -1,13 +1,88 @@
 {
     "url":"Callithrix.glb",
-    "landmarks": [
+    "bones": [
       {
-        "id": "jaw",
+        "id": "ethmoid",
         "name": "Jaw",
         "fact": "The jaw (mandible) is the largest and strongest bone of the face."
       },
       {
-        "id": "skullCap",
+        "id": "frontal",
+        "name": "Skull Cap",
+        "fact": "This is the upper part of the cranium that encloses and protects the brain."
+      },
+      {
+        "id": "jugal",
+        "name": "Skull Cap",
+        "fact": "This is the upper part of the cranium that encloses and protects the brain."
+      },
+      {
+        "id": "L_teeth",
+        "name": "Skull Cap",
+        "fact": "This is the upper part of the cranium that encloses and protects the brain."
+      },
+      {
+        "id": "lacrimals",
+        "name": "Skull Cap",
+        "fact": "This is the upper part of the cranium that encloses and protects the brain."
+      },
+      {
+        "id": "mandible",
+        "name": "Skull Cap",
+        "fact": "This is the upper part of the cranium that encloses and protects the brain."
+      },
+      {
+        "id": "maxilla",
+        "name": "Skull Cap",
+        "fact": "This is the upper part of the cranium that encloses and protects the brain."
+      },
+      {
+        "id": "nasal",
+        "name": "Skull Cap",
+        "fact": "This is the upper part of the cranium that encloses and protects the brain."
+      },
+      {
+        "id": "nasal_cochae",
+        "name": "Skull Cap",
+        "fact": "This is the upper part of the cranium that encloses and protects the brain."
+      },
+      {
+        "id": "occipital",
+        "name": "Skull Cap",
+        "fact": "This is the upper part of the cranium that encloses and protects the brain."
+      },
+      {
+        "id": "palantine",
+        "name": "Skull Cap",
+        "fact": "This is the upper part of the cranium that encloses and protects the brain."
+      },
+      {
+        "id": "parietal",
+        "name": "Skull Cap",
+        "fact": "This is the upper part of the cranium that encloses and protects the brain."
+      },
+      {
+        "id": "premaxilla",
+        "name": "Skull Cap",
+        "fact": "This is the upper part of the cranium that encloses and protects the brain."
+      },
+      {
+        "id": "sphenoid",
+        "name": "Skull Cap",
+        "fact": "This is the upper part of the cranium that encloses and protects the brain."
+      },
+      {
+        "id": "teeth",
+        "name": "Skull Cap",
+        "fact": "This is the upper part of the cranium that encloses and protects the brain."
+      },
+      {
+        "id": "Temporal",
+        "name": "Skull Cap",
+        "fact": "This is the upper part of the cranium that encloses and protects the brain."
+      },
+      {
+        "id": "vomer",
         "name": "Skull Cap",
         "fact": "This is the upper part of the cranium that encloses and protects the brain."
       }
