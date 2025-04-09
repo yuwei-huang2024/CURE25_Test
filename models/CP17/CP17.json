@@ -44,7 +44,7 @@
             "PartName": "Lparietal",
             "DisplayName": "Left Parietal Bone",
             "PartDescription": "The Lparietal Bone",
-            "PartColor": "Violet"
+            "PartColor": "#ff00ff"
         },
         {
             "PartName": "Ltemporal2",
